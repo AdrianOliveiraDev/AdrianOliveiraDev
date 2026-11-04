@@ -17,13 +17,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante do curso **Técnico em Informática no CEFET Vasco Coutinho** e estou construindo minha trajetória na área de desenvolvimento de software.
+Sou estudante do curso **Técnico em Informática no CEET Vasco Coutinho** e estou construindo minha trajetória na área de desenvolvimento de software.
 
 Comecei explorando **Python** e desenvolvimento web com **HTML, CSS e JavaScript**. Atualmente, estou aprofundando meus conhecimentos em **C#**, especialmente na criação de aplicações desktop com **Windows Forms**.
 
 Gosto de aprender na prática, desenvolver projetos e transformar conceitos em soluções. Meu objetivo é conquistar minha primeira oportunidade de estágio na área de desenvolvimento.
 
-- 🎓 Técnico em Informática em formação — CEFET Vasco Coutinho
+- 🎓 Técnico em Informática em formação — CEET Vasco Coutinho
 - 💻 Atualmente aprofundando meus estudos em **C# e Windows Forms**
 - 🌐 Conhecimentos em desenvolvimento web com **HTML, CSS e JavaScript**
 - 🐍 Experiência acadêmica com **Python**
