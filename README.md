@@ -52,7 +52,7 @@ Gosto de aprender na prática, desenvolver projetos e transformar conceitos em s
       <h3>🐾 Focinho Feliz</h3>
       <p>Site desenvolvido como atividade acadêmica na disciplina de Fundamentos de Desenvolvimento Web.</p>
       <p><strong>Tecnologias:</strong> HTML · CSS</p>
-      <a href="https://github.com/AdrianOliveiraDev/focofeliz">Ver repositório →</a>
+      <a href="https://github.com/AdrianOliveiraDev/focinhofeliz.git">Ver repositório →</a>
     </td>
     <td width="50%">
       <h3>🍔 DeliFood</h3>
