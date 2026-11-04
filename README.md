@@ -71,28 +71,17 @@ Gosto de aprender na prática, desenvolver projetos e transformar conceitos em s
   </tr>
 </table>
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/AdrianOliveiraDev">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AdrianOliveiraDev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Estat%C3%ADsticas%20do%20GitHub" alt="Estatísticas do GitHub" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=AdrianOliveiraDev&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </a>
-<a href="https://github.com/AdrianOliveiraDev">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianOliveiraDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <img width="70%" src="https://streak-stats.demolab.com?user=AdrianOliveiraDev&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
-</a>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianOliveiraDev&bg_color=1a1b27&color=8b9cf6&line=6d28d9&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
 
 </div>
+
 
 ## 🌐 Onde me encontrar
 
