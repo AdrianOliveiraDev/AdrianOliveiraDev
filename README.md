@@ -55,7 +55,7 @@ Gosto de aprender na prática, desenvolver projetos e transformar conceitos em s
       <a href="https://github.com/AdrianOliveiraDev/focinhofeliz.git">Ver repositório →</a>
     </td>
     <td width="50%">
-      <h3>🍔 DeliFood</h3>
+      <h3>🍴 DeliFood</h3>
       <p>Projeto acadêmico de um site para uma lanchonete, com foco na estruturação das páginas e na criação de uma interface visual.</p>
       <p><strong>Tecnologias:</strong> HTML · CSS</p>
       <a href="https://github.com/AdrianOliveiraDev/DeliFood.git">Ver repositório →</a>
