@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:172554,100:6D28D9&height=190&section=header&text=Adrian%20Oliveira&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=18" alt="Banner Adrian Oliveira" />
 
 <a href="https://github.com/AdrianOliveiraDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=8B9CF6&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+GitHub!;Estudante+de+T%C3%A9cnico+em+Inform%C3%A1tica;Explorando+%C3、o+C%23%2C+Python+e+desenvolvimento+Web" alt="Texto animado de apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=8B9CF6&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+GitHub!;Estudante+de+T%C3%A9cnico+em+Inform%C3%A1tica;Explorando+C%23%2C+Python+e+desenvolvimento+Web" alt="Texto animado de apresentação" />
 </a>
 
 <br/>
