@@ -58,7 +58,7 @@ Gosto de aprender na prática, desenvolver projetos e transformar conceitos em s
       <h3>🍔 DeliFood</h3>
       <p>Projeto acadêmico de um site para uma lanchonete, com foco na estruturação das páginas e na criação de uma interface visual.</p>
       <p><strong>Tecnologias:</strong> HTML · CSS</p>
-      <a href="https://github.com/FelipeBarbosaDel-pcu/DeliFood">Ver repositório →</a>
+      <a href="https://github.com/AdrianOliveiraDev/DeliFood.git">Ver repositório →</a>
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Gosto de aprender na prática, desenvolver projetos e transformar conceitos em s
       <h3>🚌 Gestão de Ônibus</h3>
       <p>Sistema básico de gestão de ônibus desenvolvido em Python para a disciplina de Algoritmos e Lógica de Programação.</p>
       <p><strong>Tecnologia:</strong> Python</p>
-      <a href="https://github.com/AdrianOliveiraDev/gestao-onibus-python">Ver repositório →</a>
+      <a href="https://github.com/AdrianOliveiraDev/gestao-onibus-python.git">Ver repositório →</a>
     </td>
   </tr>
 </table>
