@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante do curso Técnico em Informática no CEET Vasco Coutinho. Comecei com Python, passei por sites com HTML, CSS e JavaScript e, agora, estou aprofundando em C#, criando sistemas com interface em Windows Forms. Busco minha primeira oportunidade de estágio na área de desenvolvimento.<br><br> 📌 Atualmente estudando:<br><br> 💻 Linguagens: C# (foco atual), JavaScript e Python<br><br> 🖥️ Desktop: Windows Forms<br><br> 🌐 Web: HTML5 e CSS3<br><br> 🗄️ Outros: Bancos de Dados, Análise e Projeto de Sistemas e Estruturas de Dados
+Sou estudante do curso Técnico em Informática no <b>CEET Vasco Coutinho<b>. Comecei com Python, passei por sites com HTML, CSS e JavaScript e, agora, estou aprofundando em C#, criando sistemas com interface em Windows Forms. Busco minha primeira oportunidade de estágio na área de desenvolvimento.<br><br> 📌 Atualmente estudando:<br><br> 💻 Linguagens: C# (foco atual), JavaScript e Python<br><br> 🖥️ Desktop: Windows Forms<br><br> 🌐 Web: HTML5 e CSS3<br><br> 🗄️ Outros: Bancos de Dados, Análise e Projeto de Sistemas e Estruturas de Dados
 
 ## 🚀 Projetos
 
